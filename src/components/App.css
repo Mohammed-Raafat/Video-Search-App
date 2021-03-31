@@ -1,0 +1,29 @@
+.light-mode,
+.light-mode div {
+    background: #fff !important;
+    color: #000 !important;
+}
+
+.night-mode,
+.night-mode div {
+    background: #222 !important;
+    color: #aaa !important;
+}
+
+.night-mode button {
+    background: #aaa !important;
+    color: #444 !important;
+}
+
+.night-mode input {
+    background: #444 !important;
+    color: #aaa !important;
+}
+
+.night-mode h4 {
+    color: #fff !important;
+}
+
+.night-mode .segment {
+    border: 1px solid #444;
+}
