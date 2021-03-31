@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Video-Search-App/static/css/main.a8c51d6e.chunk.css",
+    "main.js": "/Video-Search-App/static/js/main.30a3f395.chunk.js",
+    "main.js.map": "/Video-Search-App/static/js/main.30a3f395.chunk.js.map",
+    "runtime-main.js": "/Video-Search-App/static/js/runtime-main.9bb68535.js",
+    "runtime-main.js.map": "/Video-Search-App/static/js/runtime-main.9bb68535.js.map",
+    "static/js/2.e47ff1a6.chunk.js": "/Video-Search-App/static/js/2.e47ff1a6.chunk.js",
+    "static/js/2.e47ff1a6.chunk.js.map": "/Video-Search-App/static/js/2.e47ff1a6.chunk.js.map",
+    "index.html": "/Video-Search-App/index.html",
+    "static/css/main.a8c51d6e.chunk.css.map": "/Video-Search-App/static/css/main.a8c51d6e.chunk.css.map",
+    "static/js/2.e47ff1a6.chunk.js.LICENSE.txt": "/Video-Search-App/static/js/2.e47ff1a6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9bb68535.js",
+    "static/js/2.e47ff1a6.chunk.js",
+    "static/css/main.a8c51d6e.chunk.css",
+    "static/js/main.30a3f395.chunk.js"
+  ]
+}
