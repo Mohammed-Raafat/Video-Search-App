@@ -2,4 +2,6 @@
 
 Responsive-Video-Search-App (using React.js, axios, JavaScript (ES6), HTML 5 , CSS 3, Semantic UI, and Youtube API)
 
+Include: Night mode design
+
 Preview: https://mohammed-raafat.github.io/Video-Search-App/
